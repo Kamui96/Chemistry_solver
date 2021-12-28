@@ -1,7 +1,3 @@
-# Learning Git in VScode 
+# Chemistry Solver
 
-# Amend it 
-
-# Yeah
-
-# Used to solve real problems
+An application developed in Flutter to use AI in order to balance chemical reactions by photos
